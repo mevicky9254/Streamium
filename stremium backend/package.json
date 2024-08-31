@@ -1,0 +1,23 @@
+{
+  "name": "streamium",
+  "version": "1.0.0",
+  "description": "A dynamic streaming space where users can explore an ever-flowing library of video content.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Streamium",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
